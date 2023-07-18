@@ -20,14 +20,14 @@
 ---
 
 ### About Me :space_invader: :
-I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30"> from KZ :kazakhstan:.
-- :telescope: I'm a undergraduate computer science student in Almaty, KZ.
+I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30"> from Kazakhstan.
+- :book: I'm a undergraduate computer science student in Almaty.
 
 - :video_game: Creating some games.
 
-- :zap: Native Russian:ru:, English B1+:uk:, Learning German:de: 
+- :tongue: Native Russian, English B1+, Learning German 
 
-- :mailbox:How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub)
+- :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub)
 
 ---
 
@@ -42,11 +42,11 @@ I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=y-vogel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Leetcode Stats](https://leetcode.com/y-vogel/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-vogel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
