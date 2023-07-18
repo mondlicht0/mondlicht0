@@ -1,3 +1,11 @@
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=y-vogel&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hello!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 ### About Me :space_invader: :
 I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30"> from Kazakhstan.
 - :book: I'm a undergraduate Computer Science student in Almaty.
@@ -9,20 +17,11 @@ I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30
 - :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub)
 
 ---
-
-<div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/y0damir/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=y-vogel&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
