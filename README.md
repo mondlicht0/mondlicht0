@@ -14,15 +14,9 @@ I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30
 
 - :tongue: Native Russian, Intermediate English, Learning German 
 
-- :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub)
-
----
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/y0damir/">
+- :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub) or <a href="https://www.linkedin.com/in/y0damir/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  </div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
