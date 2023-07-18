@@ -44,7 +44,7 @@ I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=y-vogel&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcode.com/y-vogel/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/y-vogel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-vogel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
