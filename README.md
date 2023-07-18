@@ -1,16 +1,10 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/y0damir/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=y-vogel&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -21,11 +15,11 @@
 
 ### About Me :space_invader: :
 I am an Unity Developer <img src="https://i.redd.it/tu3gt6ysfxq71.png" width="30"> from Kazakhstan.
-- :book: I'm a undergraduate computer science student in Almaty.
+- :book: I'm a undergraduate Computer Science student in Almaty.
 
 - :video_game: Creating some games.
 
-- :tongue: Native Russian, English B1+, Learning German 
+- :tongue: Native Russian, Intermediate English, Learning German 
 
 - :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub)
 
