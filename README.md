@@ -6,11 +6,7 @@
 </div>
 
 ### About Me
-I am an Unity Developer from Kazakhstan.
-- :book: I'm a undergraduate Computer Science student in Almaty.
-- :mailbox: How to reach me: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/damirkub) or <a href="https://www.linkedin.com/in/y0damir/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+I'm an Unity Developer from Kazakhstan and undergraduate Computer Science student in Almaty.
 ---
 
 ### My Stats :
