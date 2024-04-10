@@ -6,7 +6,7 @@
 </div>
 
 ### About Me
-I'm an Unity Developer from Kazakhstan and undergraduate Computer Science student in Almaty.
+I'm an Unity Developer from Kazakhstan, Almaty. Undergraduate CS student @ AlmaU
 
 
 ---
